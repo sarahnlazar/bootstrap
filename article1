@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Serendipity</title>
+	<style type="text/css">
+	p {text-indent: 50px;}
+</style>
+</head>
+<body>
+	<header>
+
+	<img src="ocean.jpg" style="width:100%; height:100%;"> 
+		<style>
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222;
+	}
+
+	li {
+    float: left;
+	}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: transparent;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+		</style>
+		
+		<h1 style="text-align:center;"><stong> Serendipity</strong></h1>
+		<link rel="stylesheet" type="text/css" src= "style.css">
+		<ul>
+  <li><a class="active" href="midterm.html">Home</a></li>
+  <li><a href="article.html">Travel</a></li>
+  <li class="dropdown">
+    <a href="#" class="dropbtn">Humor</a>
+    <div class="dropdown-content">
+      <a href="midterm.html">Bagels</a>
+      <a href="article.html">Mom on Facebook</a>
+      <a href="midterm.html">Funny Stuff</a>
+      <a href="midterm.html">Laughs</a>
+    </div>
+  <li><a href="midterm.html">Life</a>
+  </li>
+</ul>
+		</nav>
+		
+	</header>
+	<p> 
+		<h2 style="text-align:center;">
+		My Mom's Addiction to Facebook; Cant Keep Her Thumbs To Herself</h2>
+		</p>
+		<p><h3 style="text-align:center;"><i>
+		When disconnecting provokes withdrawls from over sharing and basking in the glow of nostalgia
+		</i></p></h3>
+		<p><h4 style="text-align:center;"> By Sarah Lazar</h4></p>
+		<p><h5 style="text-align:center;"> October 6 2016</h5></p>
+		<p>
+		Amidst the massive influx of Facebook members above the age of 50, my mother continues to <i>poke</i> me until I like her statuses; its her addiction to the website that I don’t <i>like</i> at all.
+		</p>
+		<p>
+		It was on the eve of her birthday last year that I picked up her phone call eager to sing her an annual <q>happy birthday</q> and wish she and my father safe travels, as they prepared for their trip to Hawaii the next day. What I heard instead, was my mom in sheer panic, using the same tone of voice as when she told me years ago that our dog Skip ran into the middle of the street. Skip was okay this time, but my mother’s panic to figure out her Facebook password had me more concerned than relieved. 
+		</p>
+		<p>
+		<q>This isn’t funny Sarah, I’m leaving tomorrow and wont be able to see all of my birthday posts,</q> she said through a mild hyperventilation. I was confronted with the opportunity to cut my mom off from the site once and for all; I just had to keep the news of the <q>forgot password</q> button to myself. 
+		</p>
+		<p>
+		I could only hope this might be the start of my mother's withdrawal. I've been aware for some time now, that the online world, from which my mother felt so much joy, was consequently pulling her farther from reality. 
+		</p>
+		<p>
+		It is at the center of this online community, I came to believe my mother was the mayor. As a result of my disregard for every other Baby Boomer feverishly scrolling their thumbs, posting over-sharing statuses on Facebook, I hadn’t realized my mother was a small part of a bigger picture.
+		</p>
+		<p>
+		As of 2015, 64% of internet users between the ages of 50 and 64 are active Facebook users, according to PEW Research*. That is an alarming number of parents who just might have as much time as my mom to go on the site, as she generously undershot with an estimate of, <q>5-10 times a day.</q> The instantaneous nature of the site is why she prefers Facebook over other social networking sites. That, and the fact that 90% of her friends are members, or as I call them, instigators, attests to the idea that Facebook is demographically friendly. 
+		</p>
+		<p>
+		It is both social bonding and curiosity that drives <q>seniors</q> to be active Facebook members, according to a recent study conducted by Penn State Researchers*. Professor of Communications, S. Shyam Sundar said that both are factors of <q>surveillance,</q> facilitating the ability to check out what people are doing and be able to check in on people.  
+		</p>
+		<p>
+		Social isolation and other issues of connectivity have burdened older generations before the recent rise in use of Facebook. Sundar looks forward to observing how the next generation of seniors will be able to deal with these issues. <q>My prediction is that they will have a better sense of connection and subjective well-being than previous generations of older adults that entered this phase of life without any background in social media,</q> he said. 
+		</p>
+		<p>
+		I somehow find a sliver of sanity, in repose, as I imagine my mother well into her <q>seasoned</q> years, happy as ever to share a status about the delicious <q>blue hair special</q> at a new hip restaurant. A consistent pattern of over-sharing for the past five years as an active member, solidifies the potential future. 
+		</p>
+		<p>
+		The concept of an incredibly public space to share thoughts and pictures despite geographical distances and fleeting time, was all but familiar. The discovery commenced a flood of innocent “friend’s” timelines.
+		</p>
+		<p>
+		Now, instead of picking up the phone to call one friend at a time, or execute a Google search, my mom would post status questions. 
+		</p>
+		<p> 
+		<img src= "momfacebook.png" align="middle">
+		</p>
+		<p>
+		With positive responses to her questions, she felt encouraged to enter the realm of over sharing personal events.  The intimate details of trips, concerts, run-ins with celebrities and updates on the family filled her page. Endless pictures of sunsets, baby photos, and photos of the dogs, spared no less. Though never malicious, I still continued to feel mortified. 
+		</p>
+		<p>
+		Last year, while bedridden and in pain, I scrolled past a status of hers doubling as a WebMD search, about an “anonymous" friend with shingles, impossibly making me crawl out of my skin more than I already was. The power she held in her thumbs to embarrass me was limitless. In time, I realized, I held the power to relinquish her of her tormenting abilities. 
+		</p>
+		<p>
+		Over the years, “Have you liked my picture yet?” has snuck its way into conversation. I hadn’t, and I refused to promote a bad habit. 
+		</p>
+		<p>
+		“In the beginning I think I found validation on Facebook by posting and seeing who would ‘like’, perhaps silly but it was fun to see someone in a different time zone ‘like’ or comment instantly when I posted,” my mother said. She was hooked.
+		</p>
+		<p>
+		Despite the humiliation and uneasiness I often felt from personal details shared on her page, my frustration ultimately stemmed from the disconnection I felt from her, the deeper she connected online. I had already distanced myself from the website to avoid scrolling into a black hole, like I felt my mother was. One-way conversations shared with the backside of her phone, face lit artificially blue from the screen, started to push a wedge between us. 
+		</p>
+		<p>
+		“Dad used to think FB got in the way of things as it can be a bit addictive but I've gotten much better,” she said. 
+		</p>
+		<p>
+		After only a bit of the novelty has worn off, she finds herself slightly more aware as to when and where to “Do Facebook”. That hasn’t stopped her from being on her phone at concerts or panicking when logged out, but as we know, its more alarming for her to cut cold turkey. 
+		</p>
+		<p>
+		Though I dislike the barrier of in-person connection, I ended up helping her find her password before her birthday, like a metaphorical pacifier. Finding a happy medium of connectedness, both in person and on Facebook, is in fact something I would “like”. 
+		</p>
+
+
+	
+</body>
+</html>
